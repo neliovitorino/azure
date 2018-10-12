@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "_artifactsLocation": {
-      "value": "https://github.com/Azure/RDS-Templates/tree/master/rds-deployment-existing-ad"
+      "value": "https://github.com/neliovitorino/azure"
     },
     "dnsLabelPrefix": {
       "value": "{enter_unique_external_fqdn_prefix_here (example:%resourceGroupName%)}"
